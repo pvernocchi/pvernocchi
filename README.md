@@ -64,12 +64,6 @@ Improving      Product design, automation, and clean code
 Sharing        Open-source projects and lessons learned
 ```
 
-## ⚙ Tech toolbox
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cloudflare,azure,bots,ai,github,md,powershell,ps,windows&perline=7" alt="JavaScript, PHP, HTML, CSS, Git, GitHub, and Visual Studio Code" />
-</p>
-
 ## 🔧 Featured projects
 
 | Project | What it does | Tech |
@@ -80,6 +74,12 @@ Sharing        Open-source projects and lessons learned
 | [📷 Photography Portfolio](https://github.com/pvernocchi/photography-portfolio-website) | A portfolio website for showcasing photography | PHP |
 | [🔖 URL Shortener](https://github.com/pvernocchi/url-shortener) | Personal URL-shortening web application built for conventional shared hosting | PHP |
 | [🏢 Employee Time Tracking](https://github.com/pvernocchi/employee-time-tracking) | Time-tracking and leave management app for teams in Spain, supports laboor compliance | PHP |
+
+## ⚙ Tech toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cloudflare,azure,bots,ai,github,md,powershell,ps,windows&perline=7" alt="JavaScript, PHP, HTML, CSS, Git, GitHub, and Visual Studio Code" />
+</p>
 
 ## Let's connect
 
