@@ -31,8 +31,8 @@ I'm a Solutions Engineer (tech sales) based in **Barcelona**, working at **Micro
 
 <details>
 <summary>📜 My skills</summary>
-I've been in tech for a while. Started with Windows NT 4, Exchange 5.5, Proxy 2.0... Yeah, that old. But being old in this fast moving tech world is an asset. It allowed me to learn the very basics of everything.<br>
-I've designed, migrated, and deployed NT4 domains, Active Directory since its inception in Windows 2000, Exchange 5.5/2000/2003/2007/2010/2013/2016, Proxy 2.0 - ISA Server 2000,2004,2006 - Forefront TMG 2010.<br>
+I've been in tech for a while. Started with Windows NT 4, Exchange 5.5, Proxy 2.0... Yeah, that old. But being old in this fast moving tech world is an asset. It allowed me to learn the very basics of everything.<br><br>
+I've designed, migrated, and deployed NT4 domains, Active Directory since its inception in Windows 2000, Exchange 5.5/2000/2003/2007/2010/2013/2016, Proxy 2.0 - ISA Server 2000,2004,2006 - Forefront TMG 2010.<br><br>
 Technology moved to the cloud, Pablo moved to the cloud and the journey begun with BPOS, hybrid clouds with Office 365 and Microsoft 365, Azure Active Directory (+ dirsync, Azure AD Sync, Azure AD Connect, ADFS, ADFS + password sync) and its evolution to Entra ID and Entra Connect...
 </details>
 
