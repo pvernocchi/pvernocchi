@@ -48,10 +48,12 @@ Sharing        Open-source projects and lessons learned
 
 | Project | What it does | Tech |
 |:---|:---|:---:|
-| [⚽ Porra Mundial 2026](https://github.com/pvernocchi/porra-mundial-2026) | A web app for running a 2026 World Cup prediction pool | PHP |
+| [🚦 Cowork vs Copilot Advisor](https://github.com/pvernocchi/cowork-vs-copilot-advisor) | Helps users understand if a task should run in M365 Copilot or Cowork (pay-as-you-go)  |  AI tooling |
 | [🤖 Precost Cowork Skill](https://github.com/pvernocchi/precost-cowork-skill) | Estimates task cost in Microsoft Cowork using light, medium, and heavy buckets | AI tooling |
-| [🌐 What's My IP Address?](https://github.com/pvernocchi/What-s-my-IP-Address-) | Displays a visitor's IP address and related information | JavaScript |
+| [🌎 What's My IP Address?](https://github.com/pvernocchi/What-s-my-IP-Address-) | Displays a visitor's IP address and related information | JavaScript |
 | [📷 Photography Portfolio](https://github.com/pvernocchi/photography-portfolio-website) | A portfolio website for showcasing photography | PHP |
+| [🚧 URL Shortener](https://github.com/pvernocchi/url-shortener) | Personal URL-shortening web application built for conventional shared hosting | PHP |
+| [🏢 Employee Time Tracking](https://github.com/pvernocchi/employee-time-tracking) | Time-tracking and leave management app for teams in Spain, supports laboor compliance | PHP |
 
 ## GitHub snapshot
 
@@ -75,12 +77,12 @@ I'm always happy to connect, exchange ideas, and collaborate on interesting proj
 <p>
   <a href="https://www.linkedin.com/in/pvernocchi/">
     <img src="https://img.shields.io/badge/LinkedIn_Profile-2f81f7?style=social&logo=linktree&logoColor=black" alt="Visit Pablo's LinkedIn profile" />
-  </a><br>
+  </a>
   <a href="https://www.vernocchi.es">
     <img src="https://img.shields.io/badge/Visit_my_website-2f81f7?style=social&logo=googlechrome&logoColor=black" alt="Visit Pablo's website" />
-  </a><br>
+  </a>
   <a href="https://github.com/pvernocchi">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-555?style=flat&logo=github&logoColor=white" alt="Follow Pablo on GitHub" />
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-555?style=social&logo=github&logoColor=black" alt="Follow Pablo on GitHub" />
   </a>
 </p>
 
