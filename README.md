@@ -1,5 +1,5 @@
 # Hi, I'm Pablo Vernocchi 👋
-
+<!--
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/followers/pvernocchi?style=for-the-badge&logo=github&label=Follow&color=2f81f7" alt="Follow Pablo on GitHub" />
   </a>
 </p>
-
+-->
 ---
 
 ## About me
