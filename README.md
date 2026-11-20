@@ -68,6 +68,7 @@ Sharing        Open-source projects and lessons learned
 
 | Project | What it does | Tech |
 |:---|:---|:---:|
+| 🏦 [Customer Onboarding Agent](https://github.com/pvernocchi/Customer-Onboarding-Agent) | A source-first, multi-agent onboarding workflow design for an EU/EEA bank | Power Platform |
 | 🚦 [Cowork vs Copilot Advisor](https://github.com/pvernocchi/cowork-vs-copilot-advisor) | Helps users understand if a task should run in M365 Copilot or Cowork (pay-as-you-go)  |  AI tooling |
 | 🤖 [Precost Cowork Skill](https://github.com/pvernocchi/precost-cowork-skill) | Estimates task cost in Microsoft Cowork using light, medium, and heavy buckets | AI tooling |
 | 🌎 [What's My IP Address?](https://github.com/pvernocchi/What-s-my-IP-Address-) | Displays a visitor's IP address and related information | JavaScript |
