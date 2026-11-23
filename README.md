@@ -68,12 +68,12 @@ Sharing        Open-source projects and lessons learned
 
 | Project | What it does | Tech |
 |:---|:---|:---:|
-| 🏦 [Customer Onboarding Agent](https://github.com/pvernocchi/Customer-Onboarding-Agent) | A source-first, multi-agent onboarding workflow design for an EU/EEA bank | Power Platform |
+| 🏦 [Customer Onboarding Agent](https://github.com/pvernocchi/Customer-Onboarding-Agent) | A source-first, multi-agent onboarding workflow design for an EU/EEA bank | Copilot Agent |
+| 🔖 [URL Shortener](https://github.com/pvernocchi/url-shortener) | Personal URL-shortening web application built for conventional shared hosting | PHP |
+| 🤖 [URL Shortener Copilot Studio Agent](https://github.com/pvernocchi/vrno-copilot-studio-agent) | Manage your short links from Microsoft Copilot Studio | Copilot Agent |
 | 🚦 [Cowork vs Copilot Advisor](https://github.com/pvernocchi/cowork-vs-copilot-advisor) | Helps users understand if a task should run in M365 Copilot or Cowork (pay-as-you-go)  |  AI tooling |
-| 🤖 [Precost Cowork Skill](https://github.com/pvernocchi/precost-cowork-skill) | Estimates task cost in Microsoft Cowork using light, medium, and heavy buckets | AI tooling |
 | 🌎 [What's My IP Address?](https://github.com/pvernocchi/What-s-my-IP-Address-) | Displays a visitor's IP address and related information | JavaScript |
 | 📷 [Photography Portfolio](https://github.com/pvernocchi/photography-portfolio-website) | A portfolio website for showcasing photography | PHP |
-| 🔖 [URL Shortener](https://github.com/pvernocchi/url-shortener) | Personal URL-shortening web application built for conventional shared hosting | PHP |
 | 🏢 [Employee Time Tracking](https://github.com/pvernocchi/employee-time-tracking) | Time-tracking and leave management app for teams in Spain, supports laboor compliance | PHP |
 
 ## ⚙ Tech toolbox
